@@ -1,2 +1,2 @@
-# Java
-Lessons Java
+# Изучение языка Java
+ Урок №1
